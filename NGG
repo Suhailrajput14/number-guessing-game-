@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class GFG {
+public class NGG {
 	public static void
 	guessingNumberGame()
 	{
